@@ -15,8 +15,10 @@ $ git push -u origin main
 3º questão)
 $ mkdir ola_mundo
 $ cd ola_mundo
-$ git add ola_mundo.html
-$ git commit -am "acho que agora foi"
+$ touch ola_mundo.txt
+$ vi ola_mundo.txt
+$ git add .
+$ git commit -am "acho que agora acertei"
 $ git push -u origin main
 
 4º questão)
